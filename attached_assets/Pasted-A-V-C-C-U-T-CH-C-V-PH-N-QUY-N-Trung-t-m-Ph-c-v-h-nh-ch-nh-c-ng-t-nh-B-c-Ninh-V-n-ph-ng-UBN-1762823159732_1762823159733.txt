@@ -1,0 +1,45 @@
+A. VỀ CƠ CẤU TỔ CHỨC VÀ PHÂN QUYỀN
+		Trung tâm Phục vụ hành chính công tỉnh Bắc Ninh - Văn phòng UBND tỉnh
+	1	Ban Lãnh đạo (1 Giám đốc và 07 Phó Giám đốc)
+	2	Phòng Hành chính - Tổng hợp (9 người)
+	3	Phòng Kiểm soát thủ tục hành chính (5 người)
+	4	Phòng Tiếp nhận và Trả kết quả giải quyết TTHC (7 người)
+	6	Phòng Ứng dụng CNTT và hỗ trợ nghiệp vụ (7 người)
+
+	1	Cơ cấu lãnh đạo cụ thể:
+	◦	1 Giám đốc + 7 Phó Giám đốc
+	◦	07 Phó Giám đốc phụ trách có 4 phòng nên sẽ không đủ cho 7 người theo dõi phòng, nên chỉ có 4 người theo dõi chính, còn các PGĐ còn lại theo lĩnh vực 
+	◦	Trưởng phòng HCTH được ủy quyền nhập nhiệm vụ, và phân công nhiệm vụ (lãnh đạo trung tâm cũng phân được, nhưng mặc định là do Trường phòng HCTH phân).
+	2	Phân quyền xem/sửa/giao việc:
+	◦	Giám đốc: có thể giao việc cho tất cả mọi người
+	◦	Phó GĐ cũng giao được cho tất cả mọi người
+	◦	Trưởng phòng: giao việc cho Phó phòng và Chuyên viên trong phòng mình
+	◦	Ai có quyền đánh giá/chấm điểm nhiệm vụ?----lãnh đạo phòng chấm cho người phòng mình hoặc nếu lãnh đạo trung tâm giao việc thì lãnh đạo trung tâm chấm; 
+B. VỀ QUY TRÌNH VÀ NGHIỆP VỤ
+	4	Quy trình tạo và phân công nhiệm vụ:
+	◦	Nhiệm vụ được GĐ tạo rồi giao xuống, hoặc Trưởng phòng tự tạo, kể cả PGĐ cũng giao được, 1 là từ dưới lên, 2 là từ trên xuống;
+	◦	Nhiệm vụ có thể giao cho nhiều người cùng lúc, theo hướng, người làm chính là chủ trì, còn lại là phối hợp.
+
+	5. Có giải pháp để tính điểm số giựa vào KPI (lĩnh vực hành chính nhà nước)
+	◦	Điểm KPI tính theo tháng/quý/năm
+
+	6	Trạng thái nhiệm vụ:
+	◦	Nhiệm vụ có những trạng thái (Chưa bắt đầu, Đang thực hiện, Hoàn thành, Quá hạn, Tạm dừng...)
+	◦	Người tạo nhiệm vụ và lãnh đạo (Giám đốc, Phó GĐ) có quyền thay đổi trạng thái
+D. VỀ TÍCH HỢP AI
+	9	AI hỗ trợ đánh giá nhiệm vụ:
+	◦	AI đánh giá dựa trên yếu tố (Tiến độ, chất lượng báo cáo, tần suất cập nhật)
+	◦	AI tự động chấm điểm
+	◦	cần AI phát hiện nhiệm vụ có nguy cơ trễ hạn 
+	10	AI theo dõi và cảnh báo:
+	◦	Cảnh báo trước 1 ngày khi sắp đến hạn
+	◦	AI đề xuất phân công lại nhiệm vụ khi phát hiện quá tải 
+	◦	AI phân tích xu hướng hiệu suất làm việc
+E. VỀ KỸ THUẬT VÀ TÍCH HỢP
+	11	Thông báo:
+	◦	Sử dụng Telegram và Zalo (trước mắt dùng tele)
+	◦	Loại thông báo nào: Nhiệm vụ mới, sắp đến hạn, quá hạn, thay đổi phân công
+	12	Báo cáo và thống kê:
+	◦	những loại báo cáo (Tuần/tháng/quý/năm)
+	◦	Xuất báo cáo dạng (Excel, PDF, Dashboard trực quan)
+	◦	Ai cũng xem được báo cáo 
